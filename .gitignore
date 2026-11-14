@@ -1,0 +1,21 @@
+
+# Visual Studio temporary files
+.vs/
+
+# Build output folders
+**/bin/
+**/obj/
+
+# Visual Studio user settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Environment and secret files
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
